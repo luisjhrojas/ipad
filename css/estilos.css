@@ -1,0 +1,16 @@
+.fondoimagen{
+	background: url('../img/jumbo-bg.jpg') ;
+	background-repeat: no-repeat;
+    
+    background-position: center top;
+    background-attachment: fixed;
+    height: 100%;
+}
+
+.desplegablearriba{
+	position: absolute;
+	will-change: transform;
+	top: 0px;
+	left: 0px;
+	transform: translate3d(113px, -148px, 0px);
+}
